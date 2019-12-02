@@ -1,5 +1,5 @@
 $(document).ready(
   function(){
    $("#text").append("this is so freaking cool.");
-   $("title").append("-loaded");
+   $("title").append("- loaded");
   });
